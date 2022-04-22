@@ -1,3 +1,2 @@
 # demo-repository
-an simple demo for git
-change 1
+an simple demo for git. 1 changed
